@@ -66,3 +66,8 @@ Modeling the NoSQL database or Apache Cassandra database
 
 Launch Project_1B_ Project_Template.ipynb to run validation and example queries.
 
+For this project I used the following:
+
++ Python 3.6.3
++ pandas 0.23.3
+
